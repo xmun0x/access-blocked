@@ -3,3 +3,4 @@ A list of sites that block VPN traffic
 
 - [Indiegogo](https://www.indiegogo.com)
 - [Hulu](https://www.hulu.com/)
+- [Netflix](https://netflix.com/)
